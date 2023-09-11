@@ -1,4 +1,4 @@
-.. _datastore:
+sds.. _datastore:
 
 ===================
 DataStore extension
